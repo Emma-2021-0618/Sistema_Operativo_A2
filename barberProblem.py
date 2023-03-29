@@ -8,13 +8,13 @@ def barber(queue):
     while True:
         queue.get()
         print("El barbero esta cortando cabello")
-        time.sleep(random.randint(10, 25)) # Hair cut time
+        time.sleep(random.randint(10, 25))
 
 def customer(queue):
 	while True:
 	    print("el cliente esta en la sala de espera")
 	    queue.put('Work')
-	    time.sleep(random.randint(1, 3)) # wait for new customer to come in 
+	    time.sleep(random.randint(1, 3))
 
 
 class Manager:
