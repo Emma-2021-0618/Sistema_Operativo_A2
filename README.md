@@ -48,3 +48,5 @@ def customer(queue):
 
 definimos al cliente el cual entrar a sala en forma de mensaje y pone le cola una un interancion la cual la puede ver el barbero y al final ponemos 
 el tiempo que dura cada cliente en venir del 1 al 3
+
+video explicandolo: 
