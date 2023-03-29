@@ -21,7 +21,7 @@ from multiprocessing import Process, Queue, cpu_count
 ~~~
 
 Aquí estan todas las librerias que usaremos desde la importacion de la libreria de hilos, el tiempo, el uso de numeros pseudo-aleatorios
-y procrsos, colas y contador de cpu desde multi-procesamiento.
+y procesos, colas y contador de cpu desde multi-procesamiento.
 
 Definimos al barbero:
 ~~~
