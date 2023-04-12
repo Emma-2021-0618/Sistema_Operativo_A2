@@ -50,4 +50,4 @@ Definimos al cliente el cual entrar a sala en forma de mensaje y pone le cola un
 el tiempo que dura cada cliente en venir del 1 al 3.
 
 
-[Video explicandolo: ]{]
+[Video explicandolo]{}
